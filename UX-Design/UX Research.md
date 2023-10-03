@@ -71,6 +71,7 @@ Surveys
 
 Logs analysis: A research method used to evaluate recordings of users while they interact with your design, tools, etc. 
 
-The key to a user-focused product: Research
+**The key to a user-focused product: Research**
+
 Research is crucial to creating a product that satisfies users. As an entry-level designer, it might be tempting to assume what the user needs based on your own experience, but as you know: The user comes first. Always make sure that your opinions are backed up by your research. You should get feedback from your users before, during, and after you design!
 
